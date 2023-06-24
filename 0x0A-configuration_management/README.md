@@ -1,1 +1,1 @@
-configuration_management-using,PUPPET
+configuration_management-using:PUPPET
