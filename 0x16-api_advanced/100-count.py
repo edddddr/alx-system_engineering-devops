@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module c_words("""
+"""Module for tasks"""
 
 
 def count_words(subreddit, word_list, word_count={}, after=None):
