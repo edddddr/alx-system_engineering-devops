@@ -1,4 +1,4 @@
-#To increase the amount of ultimate defoault file`.
+#To increase the amount of ultimate defoault file.
 
 # Increase the ULIMIT of the default file
 exec { 'fix--for-nginx':
